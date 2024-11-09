@@ -1,0 +1,68 @@
+
+.card-body{
+    background: plum;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+.btn-publi{
+     border: 2px solid white;
+     color: blueviolet;
+}
+.btn-publi:hover{
+    background-color: rgb(174, 134, 211);
+    color: white;
+    border: 3px solid black;
+}
+.h1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100hv;
+    background-size: cover;
+    background-position: center;
+    padding: 30px 40px;
+    margin-top: 200px;
+}
+BODY{
+    background: url("../image/WhatsApp\ Image\ 2024-11-04\ at\ 6.13.44\ PM\ \(1\).jpeg")
+    
+}
+header {
+   
+    border: 10px solid rgb(233, 146, 233);
+    padding: 5px;
+    background-color: rgb(233, 146, 233);
+    font-family: cursive;
+    font-size: medium;
+}
+.title{
+    display: flex;
+    justify-content: left;
+    position: relative;
+    text-align: right;
+    font-family: cursive;
+    font-size: medium;
+}
+.bont{
+   
+    justify-content: right;
+    position: relative;
+    text-align: right;
+    color: black;
+   
+}
+.btn-sali{
+    background: plum;
+    color: black ;
+    border: 3px solid black;
+ 
+    
+
+}
+.btn-sali:hover{
+    background-color: rgb(174, 134, 211);
+    color: white;
+    border: 3px solid black;
+    color: black;
+}
